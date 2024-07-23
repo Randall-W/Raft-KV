@@ -1,3 +1,0 @@
-/root/raft-cpp/raft-kv/build/CMakeFiles/rebuild_cache.dir
-/root/raft-cpp/raft-kv/build/CMakeFiles/edit_cache.dir
-/root/raft-cpp/raft-kv/build/CMakeFiles/raft-kv.dir
